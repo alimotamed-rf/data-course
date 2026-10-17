@@ -157,6 +157,17 @@
     ]
   },
   {
+    "name": "Sophie Ranj",
+    "linkedin": "https://www.linkedin.com/in/sophie-ranj/",
+    "avatar": "https://github.com/Sophie-ranj.png",
+    "education": [
+      "کارشناسی ارشد علوم کامپیوتر"
+    ],
+    "experience": [
+      "مهندس داده در شرکت IBM"
+    ]
+  },
+  {
     "name": "Sepehr Tabeian",
     "linkedin": "https://www.linkedin.com/in/sepehr-tabeian-554b601a8/",
     "avatar": "https://avatars.githubusercontent.com/u/47686762?v=4",
@@ -168,14 +179,36 @@
     ]
   },
   {
-  "name": "علی معتمد",
-  "linkedin": "https://www.linkedin.com/in/ali-motamed-oroaya-fini/",
-  "avatar": "https://github.com/alimotamed-rf.png",
-  "education": [
-    "ارشد برق کنترل بهشتی"
-  ],
-  "experience": [
-    "مهندس کنترل و ابزاردقیق در ناموران"
-  ]
-}
+    "name": "Atefe Jafari",
+    "linkedin": "https://linkedin.com/in/bideveloper",
+    "education": [
+      "Bachelor’s Degree in Software Engineering"
+    ],
+    "experience": [
+      "BI Developer and Data Engineer in Abidi Company"
+    ]
+  },
+  {
+    "name": "Alireza Nezhadshamsi",
+    "linkedin": "https://www.linkedin.com/in/alee-rezaa/",
+    "avatar": "https://github.com/AleeRezaa.png",
+    "education": [
+      "B.Sc. of Industrial Engineering at KNTU",
+      "M.Sc. of Financial Engineering at KNTU"
+    ],
+    "experience": [
+      "Data Engineer at Mofid Securities"
+    ]
+  },
+  {
+    "name": "علی معتمد",
+    "linkedin": "https://www.linkedin.com/in/ali-motamed-oroaya-fini/",
+    "avatar": "https://github.com/alimotamed-rf.png",
+    "education": [
+      "ارشد برق کنترل بهشتی"
+    ],
+    "experience": [
+      "مهندس کنترل و ابزاردقیق در ناموران"
+    ]
+  }
 ]
